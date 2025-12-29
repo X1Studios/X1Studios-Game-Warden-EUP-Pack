@@ -1,8 +1,9 @@
-2024 Game Warden EUP Pack - X1Studios (SheriffX1)
+2025 Game Warden EUP Pack - X1Studios (SheriffX1)
 
 This Clothing is Addon
 
 1) Drag and drop file 'x1game' into resources.
 2) Start 'x1game' in server.cfg
 3) Restart your server.
+
 4) Enjoy.
